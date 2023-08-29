@@ -65,11 +65,13 @@ Which programming language did you get?
 --------------------------------------------------------------------------------
 I rolled JavaScript.
 
+--------------------------------------------------------------------------------
 What is the character set of that programming language?
 --------------------------------------------------------------------------------
 JavaScript utilizes the Unicode character set which, in turn, consists of the 26 letters of the English language,
 the 10 Arabic numerals, and several additional operators (hash, ampersand, plus, etc.).
 
+--------------------------------------------------------------------------------
 What are the keywords in that programming language?
 --------------------------------------------------------------------------------
 As per W3schools.com's article "JavaScript Reserved Words," JavaScript's keywords are abstract, arguments, await, boolean,
@@ -78,6 +80,7 @@ extends, false, final, finally, float, for, function, goto, if, implements, impo
 long, native, new, null, package, private, protected, public, return, short, static, super, switch, synchronized, this, throw,
 throws, transient, true, try, typeof, var, void, volatile, while, with, and yield.
 
+--------------------------------------------------------------------------------
 What does the spoken language have in common with the programming language? 
 --------------------------------------------------------------------------------
 Both languages taken characters from their character sets - each of which is distinct from all other members of the set - and
@@ -87,6 +90,7 @@ ideas between people who speak that language, while JavaScript communicates with
 Both languages can also be written to communicate ideas; a book written in Marathi would communicate a story to anyone that comes across
 the book in the future, while code written in JavaScript would communicate ideas to future programmers who look at the program.
 
+--------------------------------------------------------------------------------
 What is different between the spoken language and the programming language? 
 --------------------------------------------------------------------------------
 One key difference is that there are far fewer words in JavaScript which have been given particular meaning by the language than
@@ -99,6 +103,7 @@ not a keyword. Beyond this, the primary audience of these two languages is diffe
 a program is primary written to give instructions to a machine (this is why we need to document our code in a human language!), while a
 spoken language is used to communicate ideas to another person.
 
+--------------------------------------------------------------------------------
 How might the similarities and differences affect someone's ability to learn the programming language?
 --------------------------------------------------------------------------------
 A person would likely intuitively understand how to format code because, just like a spoken language, programming languages are built from
@@ -117,6 +122,7 @@ Think back on your definition of "programming language" from class.
 For reference, my definition of a programming language was that that a programming language is an interface through which a programmer 
 can provide human-readable instructions to a computer to make it carry out specific tasks.
 
+--------------------------------------------------------------------------------
 Are HTML and CSS programming languages, according to your definition? Why or why not?
 --------------------------------------------------------------------------------
 Yes. In both cases, the programmer can input a series of commands (specifying, say, the colors and dimensions of a website graphic) using
@@ -124,6 +130,7 @@ specific keywords and syntax rules and then feed those commands into the compute
 of our above example, outputs a graphic with the specified colors and dimensions. HTML and CSS allow us to interface with a machine, feed it
 instructions, and make sure those instructions are obeyed, so both fall in line with the above definition.
 
+--------------------------------------------------------------------------------
 What do you think Yang and Rabkin would say about whether HTML and CSS are programming langauges?
 --------------------------------------------------------------------------------
 I believe Yang and Rabkin would say HTML and CSS are programming languages. Their article predominantly aims to push back against 
@@ -131,6 +138,7 @@ I believe Yang and Rabkin would say HTML and CSS are programming languages. Thei
 described above, both HTML and CSS arguably do). They would likely point out that excluding HTML and CSS from programming language
 discussions heightens elitism within the programming community and serves to dissuade and force out potentially talented programmers.
 
+--------------------------------------------------------------------------------
 Finally, what might be some consequences of TIOBE's decision not to include 
 HTML and CSS on their list of programming languages?
 --------------------------------------------------------------------------------
