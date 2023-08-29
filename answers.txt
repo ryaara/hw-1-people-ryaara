@@ -17,63 +17,87 @@ breakdowns.
 --------------------------------------------------------------------------------
 After reading the syllabus, what questions do you have?
 --------------------------------------------------------------------------------
+How long should each module and homework assignment take? Is there a set length for each, or will
+it vary based on the week's content?
 
-
-
+What specifically will the final project involve? Will we be able to work on this project in groups?
 
 --------------------------------------------------------------------------------
 Yang and Rabkin response (see assignment)
 --------------------------------------------------------------------------------
+"Programmers constrained on time or money will tend not choose [Haskell and Idris] first. Knowledge of such languages 
+is often limited to the programmers who learned them in school (often elite institutions or in graduate school) 
+or have sufficient leisure time–and access to a community–for self-teaching."
 
-
-
+This quote stood out to me as an effective rebuttal of the claim that, simply because a person can self-teach themselves
+how to code for free using Internet resources, computer science is an equitable and meritocratic field. Even if resources
+are free, only those with sufficient free time (which is itself a privilege often denied those working lower paid jobs) will
+be able to utilize those resources and, in this case, self-teach the skills necessary to obtain a programming job. Inequities
+in free time are a major driver of social stratification - how can a single parent working two jobs be expected to find the time
+to finish a 50 hour Python course? - and, unfortunately, make it difficult for less fortunate individuals to pursue a career
+in programming. Until we find a way to overcome this barrier and provide all people the opportunity and time to learn how to code,
+it will be impossible to provide equitable entrance into the field of programming.
 
 --------------------------------------------------------------------------------
 Hopper response (see assignment)
 --------------------------------------------------------------------------------
-
-
-
+Hopper's tenacity, despite constant disbelief from her superiors, stood out to me, and was likely the primary driver behind her
+continued successes in developing the first programming languages. Her story is an important lesson that, if you know your field
+and have evidence to support your ideas, you often need to ignore less qualified advice in order to make great discoveries. Relatedly,
+Hopper also showcased the importance of drawings on the findings of other experts in your field (rather than viewing them as rivals); many
+of Hopper's team's findings were inspired by or based on the approaches taken in other research papers, and highlight the collaborative nature
+of any major scientific undertaking.
 
 --------------------------------------------------------------------------------
 Describe a spoken language (see assignment)
 --------------------------------------------------------------------------------
-
-
 Which language did you get?
 --------------------------------------------------------------------------------
-
+I rolled Marathi.
 
 What is the character set of that language?
 --------------------------------------------------------------------------------
-
-
-
+Marathi has a character set of 34 consonants, 12 vowels, and 14 vowel modifiers (which change the pronunciation of any modified
+vowels).
 
 --------------------------------------------------------------------------------
 Describe a programming language (see assignment)
 --------------------------------------------------------------------------------
-
 Which programming language did you get?
 --------------------------------------------------------------------------------
-
+I rolled JavaScript.
 
 What is the character set of that programming language?
 --------------------------------------------------------------------------------
-
+JavaScript utilizes the Unicode character set which, in turn, consists of the 26 letters of the English language,
+the 10 Arabic numerals, and several additional operators (hash, ampersand, plus, etc.).
 
 What are the keywords in that programming language?
 --------------------------------------------------------------------------------
-
+As per W3schools.com's article "JavaScript Reserved Words," JavaScript's keywords are abstract, arguments, await, boolean,
+break, byte, case, catch, char, class, const, continue, debugger, default, delete, do, double, else, enum, eval, export,
+extends, false, final, finally, float, for, function, goto, if, implements, import, in, instanceof, int, interface, let,
+long, native, new, null, package, private, protected, public, return, short, static, super, switch, synchronized, this, throw,
+throws, transient, true, try, typeof, var, void, volatile, while, with, and yield.
 
 What does the spoken language have in common with the programming language? 
 --------------------------------------------------------------------------------
-
-
+Both languages taken characters from their character sets - each of which is distinct from all other members of the set - and
+string them together to create words. Many of these words (but, importantly, not all possible words that could be created) are
+imbued with meaning by the language. Both languages are also used for purposes of communication: Marathi is used to communicate
+ideas between people who speak that language, while JavaScript communicates with the machine to instruct it to perform certain tasks.
+Both languages can also be written to communicate ideas; a book written in Marathi would communicate a story to anyone that comes across
+the book in the future, while code written in JavaScript would communicate ideas to future programmers who look at the program.
 
 What is different between the spoken language and the programming language? 
 --------------------------------------------------------------------------------
-
+One key difference is that there are far fewer words in JavaScript which have been given particular meaning by the language than
+Marathi. A quick Google search shows that there are, at the very least, hundreds of thousands of unique words in Marathi; this means
+that Marathi characters can be strung together into hundreds of thousands of different configurations, each of which is imbuded with a
+specific meaning and understood by those listeing to the word. JavaScript, meanwhile, only has a small list (the words listed in the
+keywords answer above) of words which have inherent meaning in the language; we see that the word "continue" would be recognized by the
+language to have meaning, but the word "run" would not (and could only be defined using other surrounding operators or keywords), as it is
+not a keyword.
 
 How might the similarities and differences affect someone's ability to learn the programming language?
 --------------------------------------------------------------------------------
