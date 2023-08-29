@@ -49,8 +49,7 @@ of Hopper's team's findings were inspired by or based on the approaches taken in
 of any major scientific undertaking.
 
 --------------------------------------------------------------------------------
-Describe a spoken language (see assignment)
---------------------------------------------------------------------------------
+Describe a spoken language (see assignment).
 Which language did you get?
 --------------------------------------------------------------------------------
 I rolled Marathi.
@@ -61,8 +60,7 @@ Marathi has a character set of 34 consonants, 12 vowels, and 14 vowel modifiers 
 vowels).
 
 --------------------------------------------------------------------------------
-Describe a programming language (see assignment)
---------------------------------------------------------------------------------
+Describe a programming language (see assignment).
 Which programming language did you get?
 --------------------------------------------------------------------------------
 I rolled JavaScript.
@@ -97,18 +95,27 @@ that Marathi characters can be strung together into hundreds of thousands of dif
 specific meaning and understood by those listeing to the word. JavaScript, meanwhile, only has a small list (the words listed in the
 keywords answer above) of words which have inherent meaning in the language; we see that the word "continue" would be recognized by the
 language to have meaning, but the word "run" would not (and could only be defined using other surrounding operators or keywords), as it is
-not a keyword.
+not a keyword. Beyond this, the primary audience of these two languages is different: while another person can generally find meaning in code,
+a program is primary written to give instructions to a machine (this is why we need to document our code in a human language!), while a
+spoken language is used to communicate ideas to another person.
 
 How might the similarities and differences affect someone's ability to learn the programming language?
 --------------------------------------------------------------------------------
-
-
-
+A person would likely intuitively understand how to format code because, just like a spoken language, programming languages are built from
+characters in a set, which are strung together to create words with inherent and contextual meaning. However, a person may struggle to
+understand code written by others, particularly when first learning a programming language; as described above, programming languages are less
+human-friendly because they are, first and foremost, designed to effectively communicate with a machine. This is different from a spoken language,
+which is often more human-intuitive because it was designed to be understood primarily by humans. A person may also struggle to communicate
+complex ideas with the incredibly short list of keywords available in programming languages; oftentimes, because we have access to a far greater
+array of words with inherent meaning in spoken languages, we're able to more easily describe complicated ideas. When programming, we must often
+use workarounds, data structures, pre-defined algorithms, and so on to communicate complex ideas to the computer; we can't just rely on using
+inherently understood words.
 
 --------------------------------------------------------------------------------
 Think back on your definition of "programming language" from class.   
 --------------------------------------------------------------------------------
-
+For reference, my definition of a programming language was that that a programming language is an interface through which a programmer 
+can provide human-readable instructions to a computer to make it carry out specific tasks.
 
 Are HTML and CSS programming languages, according to your definition? Why or why not?
 --------------------------------------------------------------------------------
