@@ -119,14 +119,27 @@ can provide human-readable instructions to a computer to make it carry out speci
 
 Are HTML and CSS programming languages, according to your definition? Why or why not?
 --------------------------------------------------------------------------------
-
+Yes. In both cases, the programmer can input a series of commands (specifying, say, the colors and dimensions of a website graphic) using
+specific keywords and syntax rules and then feed those commands into the computer. The computer processes those commands and, in the case
+of our above example, outputs a graphic with the specified colors and dimensions. HTML and CSS allow us to interface with a machine, feed it
+instructions, and make sure those instructions are obeyed, so both fall in line with the above definition.
 
 What do you think Yang and Rabkin would say about whether HTML and CSS are programming langauges?
 --------------------------------------------------------------------------------
-
+I believe Yang and Rabkin would say HTML and CSS are programming languages. Their article predominantly aims to push back against 
+"language-based snobbery" and emphasize the value of everything that fits the basic definition of a programming language (which, as
+described above, both HTML and CSS arguably do). They would likely point out that excluding HTML and CSS from programming language
+discussions heightens elitism within the programming community and serves to dissuade and force out potentially talented programmers.
 
 Finally, what might be some consequences of TIOBE's decision not to include 
 HTML and CSS on their list of programming languages?
 --------------------------------------------------------------------------------
-
-
+As described in Yang and Rabkin's article, drawing somewhat arbitrary boundaries around what languages are and are not considered "true"
+programming languages further heightens heirarchical systems within computer science (i.e. programmers who code in C++ may use the exclusion
+of these languages as a means of looking down on programmers who specialize in, say, HTML). This becomes more problematic when considering the
+fact that web designers, likely the primary professional users of HTML and CSS, generally aren't paid as high or held in as much prestige as a
+software engineer, who is more likely to use languages listed on TIOBE, so a stronger heirarchy also inadvertently heightens the perceived
+superiority of these better paid positions. We could also see slower developments in web design than other applications of programming; less
+respect and attention from the programming community naturally means that less developers will use these languages and less resources will
+go into improving them, which may cause HTML and CSS-based programs to lag behind other language-based programs in terms of performance,
+ease of use, width of applications, etc.
